@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Famous Money Launderes Of All Time
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Money Launderers](https://angry-shirley-86a35f.netlify.app).
+
+## About the Website
+
+- List of famous money launderers in Card Layout
+- funtionality of adding launderers in a separate list.
+- Getting total laundering amount of selected launderers.
 
 ## Available Scripts
 

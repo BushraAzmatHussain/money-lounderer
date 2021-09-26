@@ -1,0 +1,22 @@
+.main-container {
+ margin: 20px;
+ padding: 10px;
+ display: grid;
+ grid-template-columns: 3fr 1fr;
+ justify-content: center;
+}
+
+.launderers-container {
+ margin: 20px;
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ grid-gap: 1em;
+}
+
+.regular-btn {
+ background: #470101;
+ border:1px solid #470101;
+ border-radius: 10px;
+ color: #ffff;
+ padding: 8px 20px;
+}

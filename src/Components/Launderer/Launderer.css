@@ -1,0 +1,25 @@
+.launderer {
+ border: 2px solid #470101;
+ text-align: center;
+ margin: 0 auto;
+ padding: 20px 10px;
+ border-radius: 10px;
+}
+
+.launderer-img img {
+ width: 120px;
+ height: 120px;
+ border-radius: 48px;
+}
+
+.launderer-details h3 {
+ line-height: 10px;
+ font-weight: 500;
+ font-size: 16px;
+ color: #424040;
+}
+
+.launderer-details h4 {
+ font-weight: 500;
+ color: #424040;
+}
